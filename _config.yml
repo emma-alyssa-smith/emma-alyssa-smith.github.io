@@ -83,11 +83,11 @@ author:
   name             : "Emma A Smith"
   avatar           : "Emma-10 (2).jpg"
   bio              : "PhD Student"
-  location         : "Location"
-  employer         : "University of Maine | School of Marine Sciences"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "University of Maine"
+  employer         : "School of Marine Sciences"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "emma.alyssa.smith@maine.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : # paste "url"
   google_plus      :
   keybase          :
   instagram        :
