@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Emma A Smith"
-  avatar           : "profile.png"
+  avatar           : "Emma-10 (2).jpg"
   bio              : "PhD Student"
   location         : "Location"
   employer         : "University of Maine | School of Marine Sciences"
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0003-6948-981X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
