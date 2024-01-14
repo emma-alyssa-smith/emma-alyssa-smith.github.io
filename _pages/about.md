@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "my research"
+excerpt: "I research shark and skate physiology ontogeny and how it is affected by climate change"
 author_profile: true
 redirect_from: 
   - /about/
